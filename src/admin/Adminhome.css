@@ -1,0 +1,41 @@
+.username-badge {
+    font-size: 1rem;
+}
+
+.custom-link {
+    color: #000;
+    transition: color 0.3s ease;
+}
+
+.custom-link:hover {
+    color: #007bff;
+}
+
+.icon {
+    font-size: 1.2rem;
+}
+
+.course_card {
+    
+}
+
+.Course_Card {
+    width: 15rem;
+    height: 20rem;
+    padding: 0.5rem;
+    border: 1px solid red;  
+} 
+
+.Course_Image {
+    margin-top: 0px;
+    border: 1px solid green;
+    margin-top: 0;
+}
+
+.Course_Name {
+    border: 1px solid yellow;
+}
+
+.btn {
+    background: green;
+}
